@@ -1,3 +1,12 @@
+# matter-js
+
+# Repo Description
+This repo contains my copy of the publicly-available source code for matter.js, a Javascript plug-in.<br>
+I will be utilizing matter.js for a group project, stored in repo rubegoldberg.<br>
+
+All source code and information below this point from: https://github.com/liabru/matter-js<br>
+
+
 <img alt="Matter.js" src="http://brm.io/matter-js/img/matter-js.svg" width="300">
 
 > *Matter.js* is a JavaScript 2D rigid body physics engine for the web
